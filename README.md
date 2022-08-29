@@ -1,6 +1,8 @@
-![logo][logo]
+[![logo][logo]](https://github.com/Blankj/AndroidUtilCode)
 
-[![auc][aucSvg]][auc] [![api][apiSvg]][api] [![build][buildSvg]][build] [![License][licenseSvg]][license]
+[![frame][frame]](https://github.com/Blankj/AucFrameTemplate)
+
+[![auc][aucSvg]][auc] [![result][apiSvg]][result] [![build][buildSvg]][build] [![License][licenseSvg]][license]
 
 ## [README of Chinese][readme-cn]
 
@@ -38,14 +40,20 @@ If this project helps you a lot and you want to support the project's developmen
 ## [Change Log][changeLog.md]
 
 
+## 打个小广告
+
+欢迎加入我的小专栏「**[基你太美](https://xiaozhuanlan.com/Blankj)**」一起学习。
+
 
 [logo]: https://raw.githubusercontent.com/Blankj/AndroidUtilCode/master/art/logo.png
 
-[aucSvg]: https://img.shields.io/badge/AndroidUtilCode-v1.22.7-brightgreen.svg
+[frame]: https://raw.githubusercontent.com/Blankj/AndroidUtilCode/master/art/auc_frame.png
+
+[aucSvg]: https://github.com/Blankj/AndroidUtilCode/workflows/Android%20CI/badge.svg?branch=master
 [auc]: https://github.com/Blankj/AndroidUtilCode
 
 [apiSvg]: https://img.shields.io/badge/API-14+-brightgreen.svg
-[api]: https://android-arsenal.com/api?level=14
+[result]: https://android-arsenal.com/result?level=14
 
 [buildSvg]: https://travis-ci.org/Blankj/AndroidUtilCode.svg?branch=master
 [build]: https://travis-ci.org/Blankj/AndroidUtilCode
@@ -56,11 +64,11 @@ If this project helps you a lot and you want to support the project's developmen
 [readme]: https://github.com/Blankj/AndroidUtilCode
 [readme-cn]: https://github.com/Blankj/AndroidUtilCode/blob/master/README-CN.md
 
-[utilcode]: https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/README.md
-[utilcode-cn]: https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/README-CN.md
+[utilcode]: https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README.md
+[utilcode-cn]: https://github.com/Blankj/AndroidUtilCode/blob/master/lib/utilcode/README-CN.md
 
-[subutil]: https://github.com/Blankj/AndroidUtilCode/blob/master/subutil/README.md
-[subutil-cn]: https://github.com/Blankj/AndroidUtilCode/blob/master/subutil/README-CN.md
+[subutil]: https://github.com/Blankj/AndroidUtilCode/blob/master/lib/subutil/README.md
+[subutil-cn]: https://github.com/Blankj/AndroidUtilCode/blob/master/lib/subutil/README-CN.md
 
 [changeLog.md]: https://github.com/Blankj/AndroidUtilCode/blob/master/CHANGELOG.md
 
